@@ -15,7 +15,7 @@ function WorkExperience() {
         "Implementing secure coding practices and protocols",
         "Collaborating with cross-functional teams on complex systems",
       ],
-      tech: ["Oracle DB", "Oracle APEX", "IReport", "Laravel"],
+      tech: ["Oracle DB", "Oracle APEX", "IReport", "Laravel", "PHP"],
     },
     {
       id: 2,
@@ -29,9 +29,24 @@ function WorkExperience() {
         "Completed 2 graduation projects in real estate with AI features",
         "Integrated AI algorithms for property valuation and recommendations",
         "Built responsive web applications with modern UI/UX design",
-        "Managed full project lifecycle from concept to deployment",
+        "Managed full project lifecycle from concept to deployment and testing",
       ],
-      tech: ["React", "Node.js", "Python", "TensorFlow", "MongoDB", "AI/ML"],
+      tech: ["PHP", "Laravel", "Python", "Flask", "AI/ML"],
+    },
+    {
+      id: 3,
+      company: "ONLINE Student Activity",
+      position: "Volunteer PHP Mentor",
+      duration: "10/2022 - 05/2023",
+      location: "Remote",
+      description: "Worked as a Volunteer PHP Mentor for students.",
+      achievements: [
+        "Guided and taught +20 students in PHP programming and best practices",
+        "Assisted in the development of student projects",
+        "Conducted code reviews and provided constructive feedback",
+        "Organized workshops on PHP and web development",
+      ],
+      tech: ["PHP", "MVC", "MySQL", "JavaScript", "HTML/CSS"],
     },
   ];
 
