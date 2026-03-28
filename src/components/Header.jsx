@@ -41,8 +41,7 @@ function Header() {
             href="#hero"
             className="font-semibold tracking-tight text-zinc-100"
           >
-            Mona SR
-          </a>
+MN SR          </a>
           <div className="hidden sm:flex items-center gap-6 text-sm text-zinc-300">
             <a href="#projects" className="hover:text-white transition-colors">
               Projects
